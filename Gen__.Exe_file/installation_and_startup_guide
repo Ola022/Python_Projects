@@ -1,0 +1,10 @@
+-----> #TO INStall
+        * Install pyinstaller by  [ pip install pyinstaller ]
+        *type [ pyinstaller -F worksetup_auto.py ] in Command Prompt
+
+
+---->  To set Start-up app while booting-up
+        * Hold Win+R
+        * Type & Run shell:startup
+        * Place the exe shortcut to the file
+
